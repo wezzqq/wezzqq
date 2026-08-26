@@ -79,14 +79,6 @@
 
 ---
 
-### Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
----
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Feel+free+to+connect+%F0%9F%98%8A" alt="Typing SVG" />
 </div>
