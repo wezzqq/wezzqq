@@ -52,13 +52,13 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">pigeonGram for Android</h3>
+      <h3 align="center">NEXA LightOS</h3>
       <p align="center">
-        <a href="https://github.com/wezzqq/pigeonGram-android" target="_blank">
+        <a href="https://github.com/NEXA-Laboratories/LightOS" target="_blank">
           <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github"/>
         </a>
       </p>
-      <p align="center">A custom fork of Telegram for Android with extra features.</p>
+      <p align="center">A 64-bit operating system kernel written in Rust from scratch, with its own package manager (LOS) and package server (los-server).</p>
     </td>
     <td width="50%">
       <h3 align="center">Coming soon...</h3>
